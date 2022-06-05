@@ -143,7 +143,7 @@ button#activate.pushed {
 }
 
 .warning:after {
-	content: "WARNING:\2009 DANGER";
+	content: "Bấm Dô Đây";
 	color: white;
 	transform: rotate(90deg);
 	float: left;
